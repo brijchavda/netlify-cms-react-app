@@ -4,7 +4,6 @@ author: Will Jay
 date: 2020-01-03T11:50:02.255Z
 thumbnail: /images/pumpbeerthumb.jpg
 ---
-
-# This is just a test post
+# This is just a test post --modified
 
 *Let's see what happens.*
